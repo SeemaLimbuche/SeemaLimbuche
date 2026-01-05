@@ -1,120 +1,114 @@
 <h1 align="center">Hi 👋, I'm Seema Limbuche</h1>
-<h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI • Excel • Tableau</h3>
+<h3 align="center">Aspiring Data Analyst | SQL • Python • Power BI • Excel • Tableau</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/seemalimbuche">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:seemalimbuche@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://github.com/SeemaLimbuche">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-  </a>
+---
+
+## 📊 About Me
+
+📈 Aspiring Data Analyst with strong hands-on experience in analyzing, cleaning, and visualizing data  
+📉 Passionate about transforming raw data into actionable business insights  
+💡 Continuously learning and improving my analytical and problem-solving skills  
+
+---
+
+## 🛠 Skills & Tools
+
+### 🔹 Programming & Data Analysis
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
----
-
-## 👩‍💻 About Me
-
-🎯 Detail-oriented **Data Analyst** with hands-on experience in **data cleaning, analysis, and visualization**.  
-📊 Skilled at transforming raw data into **actionable business insights** using Python, SQL, Excel, and Power BI.  
-🚀 Actively seeking **entry-level Data Analyst opportunities**.
-
-📍 Pune, Maharashtra  
-🎓 B.Sc. Computer Science (CGPA: 9.36)
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Joins, Subqueries, Aggregations, Window Functions  
+- Pandas, NumPy  
 
 ---
 
-## 🛠️ Technical Skills
+### 🔹 Data Visualization & BI Tools
 
-### 💻 Programming & Databases
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **SQL**
-- **MySQL**
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
 
-### 📊 Data Analysis & Visualization
-- Data Cleaning & Transformation
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Dashboard Development
-- Data Visualization
-
-### 🧰 Tools & Platforms
-- **Power BI**
-- **MS Excel**
-- **Tableau**
-- **GitHub**
+- Interactive Dashboards & Reports  
+- DAX & Power Query (Power BI)  
+- Pivot Tables, XLOOKUP, Advanced Excel  
+- Data-driven storytelling  
 
 ---
 
 ## 📌 Featured Projects
 
-### 🗳️ India Election Results 2024 – Power BI Dashboard
-🔗 https://github.com/SeemaLimbuche/India-Election-Results-2024  
-- Analyzed data from **543 constituencies**
-- Visualized party-wise and region-wise performance
-- Delivered insights on vote share and trends
+### 🍕 Pizza Sales Data Analysis | SQL & Excel
+- Performed EDA to identify sales trends, peak order times, and best-selling products  
+- Used SQL joins, aggregations, and subqueries for analysis  
 
-**Tools:** SQL | Power BI
+🔗 **Repository:** https://github.com/SeemaLimbuche
+
+---
+
+### 🗳 India Election Results 2024 | SQL & Power BI
+- Analyzed data from 543 constituencies  
+- Built interactive dashboards to show party-wise and regional performance  
+
+🔗 **Repository:** https://github.com/SeemaLimbuche/India-Election-Results-2024
 
 ---
 
 ### 🛒 Customer Shopping Behavior Analysis
-🔗 https://github.com/SeemaLimbuche/Customer-Behavior-Analysis-SQL-Python-Power-BI  
-- Cleaned and analyzed transaction data
-- Identified customer purchasing patterns
-- Built interactive Power BI dashboards for segmentation
+- Cleaned and analyzed transaction data  
+- Created insights using MySQL and Power BI dashboards  
 
-**Tools:** Python | SQL | Power BI
+🔗 **Repository:** https://github.com/SeemaLimbuche/Customer-Behavior-Analysis-SQL-Python-Power-BI
 
 ---
 
 ### 👥 HR Data Analysis using Python
-🔗 https://github.com/SeemaLimbuche/HR-Data-Analysis-Python  
-- Performed EDA on workforce data
-- Created visualizations and heatmaps to identify HR trends
+- Performed data cleaning and EDA on workforce data  
+- Built visualizations to uncover HR trends  
 
-**Tools:** Python (Pandas, NumPy, Matplotlib)
-
----
-
-### 🏠 Home Insurance Pricing Analysis (Mentorship Project)
-- Applied **CRISP-DM framework**
-- Identified key premium pricing drivers
-- Conducted statistical analysis for business insights
-
-**Tools:** Python | EDA | Statistics
+🔗 **Repository:** https://github.com/SeemaLimbuche/HR-Data-Analysis-Python
 
 ---
 
-## 🎓 Education & Certifications
-
-🎓 **Bachelor of Computer Science**  
-Mamasaheb Mohol College, Pune University  
-**CGPA:** 9.36 / 10  
-
-📜 **Advanced Certificate Program in Data Science**  
-UpGrad Learning Center (Jun 2025 – Dec 2025)
-
-📜 **Data Analyst Mentorship Program**  
-APS Property Solutions (MentorMind)
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeemaLimbuche&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SeemaLimbuche&show_icons=true&theme=tokyonight"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeemaLimbuche&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeemaLimbuche&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🤝 Let’s Connect!
+## 🌱 Currently Learning
 
-💼 LinkedIn: https://www.linkedin.com/in/seemalimbuche  
-📧 Email: seemalimbuche@gmail.com  
+- Advanced SQL & Query Optimization  
+- Advanced Power BI (DAX & Performance Tuning)  
+- Python for Data Analysis & Automation  
 
-✨ *Turning data into meaningful insights!* ✨
+---
+
+## 🤝 Let’s Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/seemalimbuche">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seemalimbuche@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⭐ Recruiter Note
+
+I am actively seeking **Data Analyst / Business Analyst (Fresher / Entry-Level)** opportunities where I can apply my analytical skills to solve real-world business problems and grow professionally.
+
+🙏 Thank you for visiting my GitHub profile!
