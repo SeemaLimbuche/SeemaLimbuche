@@ -29,18 +29,44 @@
 ## 🛠️ Technical Skills
 
 ### 💻 Programming & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-005C84?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 - **SQL**
 - **MySQL**
 
+---
+
 ### 📊 Data Analysis & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Data%20Cleaning-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/EDA-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-orange?style=flat-square"/>
+</p>
+
 - Data Cleaning & Transformation
 - Exploratory Data Analysis (EDA)
 - Statistical Analysis
 - Dashboard Development
 - Data Visualization
 
+---
+
 ### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"/>
+</p>
+
 - **Power BI**
 - **MS Excel**
 - **Tableau**
